@@ -9,7 +9,7 @@ Tmux custom configuration file
 <details><summary> Linux and Mac </summary>
 
 ```sh
-git clone https://github.com/LukSlackwalker/tmux.conf.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/LukSlackwalker/tmux.conf.git "${XDG_CONFIG_HOME:-$HOME/.config}"/tmux
 ```
 
 </details>
@@ -19,13 +19,13 @@ git clone https://github.com/LukSlackwalker/tmux.conf.git "${XDG_CONFIG_HOME:-$H
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/LukSlackwalker/tmux.conf.git %userprofile%\AppData\Local\nvim\
+git clone https://github.com/LukSlackwalker/tmux.conf.git %userprofile%\AppData\Local\tmux\
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/LukSlackwalker/tmux.conf.git $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/LukSlackwalker/tmux.conf.git $env:USERPROFILE\AppData\Local\tmux\
 ```
 
 </details>
